@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.5.0](https://github.com/Lilypad-Tech/test-lilypad-releases2/compare/v2.4.0...v2.5.0) (2024-09-09)
+
+
+### Features
+
+* Add file one ([e42b55c](https://github.com/Lilypad-Tech/test-lilypad-releases2/commit/e42b55cea84b2ea04786977562a4f695b18f6dc4))
+
+
+### Bug Fixes
+
+* Add words to one file ([a916c63](https://github.com/Lilypad-Tech/test-lilypad-releases2/commit/a916c63100454e6667fbb6cd73af96f0d77e2ce4))
+
 ## [2.4.0](https://github.com/Lilypad-Tech/lilypad/compare/v2.3.1...v2.4.0) (2024-09-04)
 
 
